@@ -2,7 +2,7 @@ package com.company;
 
 import java.util.Scanner;
 
-public class Main {
+public class ExerciciosBasicosMain {
 
     public static void main(String[] args) {
         Exercicios e = new Exercicios();
